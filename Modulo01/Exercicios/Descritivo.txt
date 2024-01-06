@@ -1,0 +1,63 @@
+
+# EXERCICO 01
+
+
+
+Hoje, com base nos conhecimentos que adquirimos, vamos realizar nossos primeiros exercícios em Python!
+
+Vamos explorar a ideia de um carro e criar variáveis correspondentes a diferentes atributos, como marca, cor, potência e valor.
+
+Para isso, cada variável será preenchida através de uma interação com o usuário, onde solicitaremos os dados necessários.
+
+Ao finalizar a coleta de informações, iremos exibir os dados utilizando interpolação de string para destacar os valores respectivos de cada atributo.
+
+Vamos começar a prática e explorar como podemos manipular e exibir informações de maneira eficiente em Python! Se surgirem dúvidas ao longo do processo, não hesitem em perguntar.
+
+
+
+
+# EXERCIO 02 
+
+
+
+Aqui está um exercício relacionado a um animal:
+
+Hoje, vamos praticar nossas habilidades em Python criando variáveis para descrever um animal.
+
+Crie variáveis correspondentes a:
+
+Tipo de animal
+Cor
+Idade
+Som que o animal faz
+Cada variável deve ser preenchida com dados fornecidos pelo usuário, através de interações específicas. Depois de coletar as informações, utilize a Mascara de substituicao para exibir os dados de forma clara e organizada.
+
+Vamos garantir que nosso código seja capaz de representar informações sobre diferentes animais de maneira flexível e interativa. Se houver dúvidas ou se precisar de ajuda, estou aqui para orientar!
+
+
+
+
+
+# EXERCICIO 03
+
+
+
+Aqui está um exercíciorelacionado a alunos:
+
+Hoje, iremos praticar nossas habilidades em Python criando variáveis para representar informações sobre alunos.
+
+Crie variáveis correspondentes a:
+
+Nome do aluno
+Idade
+Curso
+Média final
+Cada variável deve ser preenchida com dados fornecidos pelo usuário, através de interações específicas.
+
+Após a coleta de informações, utilize a Concatenacao de strings para exibir os dados de maneira legível e organizada.
+
+Este exercício ajudará a criar um programa flexível que pode lidar com informações sobre diferentes alunos. Vamos focar em como podemos interagir com o usuário para obter dados precisos e, em seguida, apresentar essas informações de forma clara.
+
+Se surgirem dúvidas ou se precisar de esclarecimentos, estou aqui para ajudar!
+
+‌

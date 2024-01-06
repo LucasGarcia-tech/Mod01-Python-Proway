@@ -1,0 +1,6 @@
+marca = input ("Digite a Marca: ")
+cor = input ("Digite a Cor: ")
+potencia = input ("Digite a Potência: ")
+valor = int(input ("Digite o Valor: "))
+
+print(f"O Marca é: {marca}\nA cor é: {cor}\nA potência é: {potencia}\nO valor é: {valor}")

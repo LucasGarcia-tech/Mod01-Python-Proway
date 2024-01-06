@@ -1,0 +1,6 @@
+nomealuno = input ("Digite seu Nome: ")
+idade = int(input ("Digite sua Idade: "))
+curso = input ("Qual Curso está fazendo? ")
+mediafinal = int(input ("Digite sua média final: "))
+
+print ("O aluno é: ", nomealuno, "A idade é: ", idade,"O curso é: ", curso,"A média final é: ", mediafinal)

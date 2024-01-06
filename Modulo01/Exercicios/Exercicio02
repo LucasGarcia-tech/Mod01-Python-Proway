@@ -1,0 +1,6 @@
+tpanimal = input ("Animal: ")
+cor = input ("Qual a Cor?: ")
+idade = int(input ("Qual a Idade?: "))
+som = input ("Que barulho ele faz?: ")
+
+print("O animal é: {}\nA cor dele é: {}\nA idade é: {}\nO som que ele faz : {}".format(tpanimal, cor, idade, som))
